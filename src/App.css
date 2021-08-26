@@ -16,19 +16,20 @@
   margin: 0px;
   grid-column: 1/2;
   grid-row: 2/3;
+ 
   
 }
 .link {
   text-decoration: none;
   color:black;
-  /* font-weight: bold;
-  font-family: 'Fjalla One'; */
-  font-size: 2vh;
-  /* padding-top: 2vh; */
+  font-size: 3vh;
+  font-family:'Courier New', Courier, monospace;
+   
 }
 
+
 .contenido{
-  background-image: radial-gradient(circle,rgb(255, 243, 203), rgb(254, 224, 174));
+  background-image: radial-gradient(circle,rgb(255, 243, 203), rgb(250, 205, 128));
   grid-column:2/4;
   grid-row: 2/4;
 }

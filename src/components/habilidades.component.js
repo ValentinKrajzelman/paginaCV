@@ -3,7 +3,7 @@ import React from  "react";
 const Habilidades = () => {
 
     
-        return(<div>hola :)</div>);
+        return(<div></div>);
     
 
 };
