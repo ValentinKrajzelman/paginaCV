@@ -1,5 +1,4 @@
 
-
 .fondo{ display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 10vh 40vh 45vh 5vh;
@@ -9,28 +8,27 @@
   width: 100vw;
   background-image: linear-gradient(rgb(143,184,212), rgb(169,197,219), rgb(191,209,219));
 }
-
 .lista {
   list-style-type: none;
   padding-top: 10vh;
   margin: 0px;
   grid-column: 1/2;
-  grid-row: 2/3;
- 
-  
+  grid-row: 2/3; 
 }
 .link {
   text-decoration: none;
   color:black;
   font-size: 3vh;
-  font-family:'Courier New', Courier, monospace;
-   
+  font-family:'Courier New', Courier, monospace; 
 }
-
-
-.contenido{
+.hoja{
   background-image: radial-gradient(circle,rgb(255, 243, 203), rgb(250, 205, 128));
   grid-column:2/4;
   grid-row: 2/4;
+}
+.contenido{
+  padding: 1vw;
+  font-size: 3vh;
+  font-family:'Courier New', Courier, monospace;
 }
 

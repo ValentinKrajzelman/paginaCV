@@ -1,8 +1,9 @@
 import React from "react";
+import '../App.css';
 
 const Landingpage = () => {
     return(
-        <div></div>
+        <div className="contenido"></div>
     );
 };
 

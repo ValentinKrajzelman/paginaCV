@@ -18,7 +18,7 @@ function App() {
         <li><Link to="/sobremi"  className="link">Sobre mi</Link></li>
         <li> <Link to="/contacto" className="link">Contacto</Link></li>
       </ul>
-      <div className="contenido">
+      <div className="hoja">
       <Route path="/contacto" component={Contacto}></Route>
       <Route path="/habilidades" component={Habilidades}></Route>
       <Route path="/sobremi" component={Sobremi}></Route>
