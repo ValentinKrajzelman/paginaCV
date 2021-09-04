@@ -6,12 +6,13 @@ import Contacto from "./components/contacto.component";
 import Habilidades from "./components/habilidades.component";
 import Sobremi from "./components/sobremi.component";
 import Landingpage from "./components/Landingpage.component";
+import Nube from "./components/nube.component";
 
 function App() {
   return (
     <div className="fondo">
+    <Nube />
       <Router>
-
       <ul className="lista">
         <li><Link to="/" className="link">VK</Link></li>
         <li><Link to="/habilidades"  className="link" >Habilidades</Link></li>
