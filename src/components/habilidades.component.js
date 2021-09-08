@@ -1,12 +1,12 @@
 import React from  "react";
-import '../App.css';
+
 
 const Habilidades = () => {
 
     
         return(<div className="contenido">
-        <div id="texto1del02">Programador junior con tres años de experiencia, creo que aprendo y me adapto rápido a cualquier
-         tecnologia que sea necesaria.</div>
+        <div id="texto1del02">Programador junior Full-stack. Tengo un conocimiento general del stack MERN
+         (MongoDB, Express, React, Node.js), aprendo y me adapto rapido.</div>
          
         <div id="texto2del02">Mi fuerte es: 
         JavaScript  MERN: MongoDB Express  React.js  Node.js</div>
