@@ -14,7 +14,6 @@ const Sobremi = () => {
         <div id="texto3del03">Tengo un proyecto hosteado es un bugtracker si te interesa
          verlo hace click aca.</div>
 
-        <div id="texto4del03">Para descargar mi CV con mis datos personales hacer click acá.</div>
 
         <div className="lineahoja">a</div>
         <div className="piehoja">.03</div>
