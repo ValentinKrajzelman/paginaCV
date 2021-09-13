@@ -6,7 +6,7 @@ const Landingpage = () => {
         <div>
         <div id="texto1del01">Hola, mi nombre es Valentin Krajzelman y este es mi CV.</div>
 
-        <div className="lineahoja">a</div>
+        <div className="lineahoja">a </div>
         <div className="piehoja">.01</div>
         </div>
     );
