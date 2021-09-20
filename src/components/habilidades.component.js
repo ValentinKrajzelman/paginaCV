@@ -14,6 +14,7 @@ const Habilidades = () => {
         <div id="texto3del02">Tambien utilizo o conozco: 
         Postgres mysql bootstrap mongoose
          html css sass grid-box  </div>
+         
         
         <div className="lineahoja">a</div>
         <div className="piehoja">.02</div>
