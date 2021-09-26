@@ -11,8 +11,7 @@ const Sobremi = () => {
         <div id="texto2del03">No me gusta trabajar en solitario, quiero entrar en un equipo que quiera 
         invertir en mi y donde pueda colaborar con compañeros.</div>
 
-        <div id="texto3del03">Tengo un proyecto hosteado es un bugtracker si te interesa
-         verlo hace click aca.</div>
+        
 
 
         <div className="lineahoja">a</div>
