@@ -16,8 +16,7 @@ const Habilidades = () => {
         Postgres mysql bootstrap mongoose 
          html css sass grid-box  </div>
          
-         <div id="texto3del03">Tengo un proyecto hosteado es un bugtracker si te interesa
-         verlo hace click aca.</div>
+         
         
         <div className="lineahoja">a</div>
         <div className="piehoja">.02</div>
