@@ -14,7 +14,7 @@ function App() {
     <Nube />
       <Router>
       <ul className="lista">
-        <li><Link to="/" className="link">VK</Link></li>
+        <li><Link to="/" className="link">Inicio</Link></li>
         <li><Link to="/habilidades"  className="link" >Habilidades</Link></li>
         <li><Link to="/sobremi"  className="link">Sobre mi</Link></li>
         <li> <Link to="/contacto" className="link">Contacto</Link></li>
@@ -26,6 +26,7 @@ function App() {
       <Route exact path="/" component={Landingpage}></Route>
       </div>
       </Router>
+      <img className="about" src={"https://www.shareicon.net/data/128x128/2016/03/14/733961_help_512x512.png"}/>
       
     </div>
   );

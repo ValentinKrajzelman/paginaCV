@@ -65,6 +65,14 @@
   font-size: 3vh;
 }
 
+.about{
+  width: 6vw;
+  padding-top: 7vw;
+  padding-left: 12vw;
+  grid-column:7/8;
+  grid-row: 5/6;
+  
+}
 
 #texto1del01{
   padding: 2vh;
@@ -87,33 +95,49 @@
   padding-top: 8vh;
   font-size: 3vh;
 }
+#texto4del02{
+  padding: 2vh;
+  padding-top: 8vh;
+  font-size: 3vh;
+}
 
 
 #texto1del03{
-  padding-left: 2vh;
-  padding-right: 2vh;
+  padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
 #texto2del03{
-  padding-left: 2vh;
-  padding-right: 2vh;
+  padding: 2vh;
+  padding-top: 8vh;
   font-size: 3vh;
 }
 #texto3del03{
-  padding-left: 2vh;
-  padding-right: 2vh;
-  font-size: 3vh;
-}
-#texto4del03{
-  padding-left: 2vh;
-  padding-right: 2vh;
+  padding: 2vh;
+  padding-top: 8vh;
   font-size: 3vh;
 }
 
-/* #texto1del03{
+
+
+#texto1del04{
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
-} */
+}
+#texto2del04{
+  padding: 2vh;
+  padding-top: 4vh;
+  font-size: 3vh;
+}
+#texto3del04{
+  padding: 2vh;
+  padding-top: 4vh;
+  font-size: 2.5vh;
+}
+#texto4del04{
+  padding: 2vh;
+  padding-top: 4vh;
+  font-size: 3vh;
+}
 
