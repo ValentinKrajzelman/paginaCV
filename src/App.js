@@ -16,7 +16,7 @@ function App() {
       <ul className="lista">
         <li><Link to="/" className="link">VK</Link></li>
         <li><Link to="/habilidades"  className="link" >Habilidades</Link></li>
-        <li><Link to="/sobremi"  className="link">Sobre Mi</Link></li>
+        <li><Link to="/sobremi"  className="link">Sobre mi</Link></li>
         <li> <Link to="/contacto" className="link">Contacto</Link></li>
       </ul>
       <div className="hoja">
