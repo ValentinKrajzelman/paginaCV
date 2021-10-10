@@ -9,8 +9,8 @@ const Contacto = () => {
 
     
         return(<div>
-        <div id="texto1del04"><Link to={{pathname:"https://github.com/ValentinKrajzelman"}} target="_blank"><FaGithub/> ValentinKrajzelman <FiExternalLink size="0.75em"/></Link></div>
-        <div id="texto2del04"> <AiFillLinkedin/> Valentin Krajzelman<FiExternalLink size="0.75em"/></div>
+        <div id="texto1del04"><Link className='link' to={{pathname:"https://github.com/ValentinKrajzelman"}} target="_blank"><FaGithub/> ValentinKrajzelman <FiExternalLink size="0.75em"/></Link></div>
+        <div id="texto2del04"><Link className='link' to={{pathname:'https://www.linkedin.com/in/valentin-krajzelman-b23380161/'}} target='_blank' > <AiFillLinkedin/> Valentin Krajzelman<FiExternalLink size="0.75em"/></Link></div>
         <div id="texto3del04"><AiOutlineMail/> valentinkrajzelman@hotmail.com</div>
         <div id="texto4del04"><AiFillPhone/> (0221) 15 4187611</div>
         

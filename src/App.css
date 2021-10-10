@@ -120,7 +120,8 @@
 
 
 
-#texto1del04{
+#texto1del04{ 
+  text-decoration: none;
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
