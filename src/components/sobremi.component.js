@@ -7,7 +7,7 @@ const Sobremi = () => {
     
         return(<div className="contenido"> 
         <div id="texto1del03">Hice tres semestres de la tecnicatura en desarrollo de la UCES,
-         llevo unos tres años programando</div>
+         llevo unos tres años programando.</div>
 
         <div id="texto2del03">No me gusta trabajar en solitario, quiero entrar en un equipo que quiera 
         invertir en mi y donde pueda colaborar con compañeros.</div>
