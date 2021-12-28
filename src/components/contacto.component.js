@@ -21,39 +21,3 @@ const Contacto = () => {
 
 };
 export default Contacto;
-
-var arrayDeObj = [];
-var lengthOfLongestSubstring = function(s) {
-    
-var string1 = s;
-var string2 = '';
-    
-for (var x=0;x<string1.length;x++){
-string2=string1[x];
-    for (var y=x+1;y<string1.length;y++){
-              
-            if (string2.search(string1[y]) != -1){
-                        break;
-                        } 
-                string2=string1.substring(x,y+1);
-        }
-        arrayDeObj[x]={
-                'cuerpo':string2,
-                'largo':string2.length,
-                };    
-}
-for (var x=0;x<arrayDeObj.length;x++){
-        for (var y=x+1;y<arrayDeObj.length;y++)
-        {
-                if(arrayDeObj[x].largo<arrayDeObj[y].largo)
-                {
-                        let helper = arrayDeObj[x];
-                        arrayDeObj[x]=arrayDeObj[y];
-                        arrayDeObj[y]=helper;
-                }
-        }
-}
-
-var mayor =arrayDeObj[0].largo;
-return mayor;
-};
