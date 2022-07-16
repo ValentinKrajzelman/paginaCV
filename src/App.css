@@ -1,6 +1,9 @@
-
-.fondo{ 
-  background-image: linear-gradient(rgb(143,184,212), rgb(169,197,219), rgb(191,209,219));
+.fondo {
+  background-image: linear-gradient(
+    rgb(143, 184, 212),
+    rgb(169, 197, 219),
+    rgb(191, 209, 219)
+  );
   padding: 0px;
   margin: 0px;
   height: 100vh;
@@ -10,10 +13,9 @@
   grid-template-rows: 10vh 20vh 20vh 20vh 25vh 5vh;
 }
 
-#Nube
-{
-  grid-column:7/8;
-  grid-row:2/3;
+#Nube {
+  grid-column: 7/8;
+  grid-row: 2/3;
   width: 20vw;
   height: 20vh;
 }
@@ -22,119 +24,116 @@
   padding-top: 10vh;
   margin: 0px;
   grid-column: 1/2;
-  grid-row: 2/3; 
+  grid-row: 2/3;
 }
 .link {
-  font-family:'Courier New', Courier, monospace; 
+  font-family: "Courier New", Courier, monospace;
   font-size: 3vh;
   text-decoration: none;
-  color:black;
+  color: black;
 }
-.hoja{
-  background-image: radial-gradient(circle,rgb(255, 243, 203), rgb(250, 205, 128));
-  font-family:'Courier New', Courier, monospace;
-  grid-column:2/4;
+.hoja {
+  background-image: radial-gradient(
+    circle,
+    rgb(255, 243, 203),
+    rgb(250, 205, 128)
+  );
+  font-family: "Courier New", Courier, monospace;
+  grid-column: 2/4;
   grid-row: 2/6;
   position: relative;
-
 }
-.piehoja{
+.piehoja {
   position: absolute;
-  bottom:0;
-  right:0;
+  bottom: 0;
+  right: 0;
   float: right;
   padding: 1vw;
   padding-right: 5%;
-  font-size: 2vh; 
+  font-size: 2vh;
 }
-.lineahoja{
-  width: 90%; 
-  bottom:0; 
+.lineahoja {
+  width: 90%;
+  bottom: 0;
   padding-bottom: 2vh;
-  position: absolute; 
+  position: absolute;
   color: transparent;
   left: 5%;
   right: 5%;
   border-top: solid;
   border-color: black;
-  border-top-width: 1px ;
+  border-top-width: 1px;
   font-size: 3vh;
 }
 
-.about{
+.about {
   width: 6vw;
   padding-top: 7vw;
   padding-left: 12vw;
-  grid-column:7/8;
+  grid-column: 7/8;
   grid-row: 5/6;
-  
 }
 
-#texto1del01{
+#texto1del01 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 6vh;
 }
 
-
-#texto1del02{
+#texto1del02 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
-#texto2del02{
+#texto2del02 {
   padding: 2vh;
   font-size: 3vh;
 }
-#texto3del02{
+#texto3del02 {
   padding: 2vh;
   padding-top: 8vh;
   font-size: 3vh;
 }
-#texto4del02{
+#texto4del02 {
   padding: 2vh;
   padding-top: 8vh;
   font-size: 3vh;
 }
 
-
-#texto1del03{
+#texto1del03 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
-#texto2del03{
+#texto2del03 {
   padding: 2vh;
   padding-top: 8vh;
   font-size: 3vh;
 }
-#texto3del03{
+#texto3del03 {
   padding: 2vh;
   padding-top: 8vh;
   font-size: 3vh;
 }
 
-
-
-#texto1del04{ 
+#texto1del04 {
   text-decoration: none;
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
-#texto2del04{
+#texto2del04 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
-#texto3del04{
+#texto3del04 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 2.5vh;
 }
-#texto4del04{
+#texto4del04 {
   padding: 2vh;
   padding-top: 4vh;
   font-size: 3vh;
 }
-
