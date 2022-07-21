@@ -8,8 +8,6 @@ import Sobremi from "./components/sobremi.component";
 import Landingpage from "./components/Landingpage.component";
 import Nube from "./components/nube.component";
 
-//fijate si tenes que optimizar algo aca desp
-
 function App() {
   return (
     <div className="fondo">
