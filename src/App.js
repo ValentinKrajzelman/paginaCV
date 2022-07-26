@@ -8,6 +8,8 @@ import Sobremi from "./components/sobremi.component";
 import Landingpage from "./components/Landingpage.component";
 import Nube from "./components/nube.component";
 
+//esto no lo voy a usar creo que deberia dejar de actualizarlo xd
+
 function App() {
   return (
     <div className="fondo">
